@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "url": "https://www.boursorama.com/cours/1rPALNOV/",
+      "name": "NOVACYT",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPALCRB/",
+      "name": "CARBIOS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPSW/",
+      "name": "SODEXO",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPALHYG/",
+      "name": "HYBRIGENICS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPAIR/",
+      "name": "AIRBUS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPAF/",
+      "name": "AIR FRANCE",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPFDJ/",
+      "name": "FDJ",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/GM/",
+      "name": "GENERAL MOTORS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPFP/",
+      "name": "TOTAL",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    }, 
+    {
+      "url": "https://www.boursorama.com/cours/1zMOH/",
+      "name": "LVMH",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPAI/",
+      "name": "AIR LIQUIDE",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPALBPS/",
+      "name": "BIOPHYTIS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPALDIE/",
+      "name": "DIETSWELL",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    },
+    {
+      "url": "https://www.boursorama.com/cours/1rPDGM/",
+      "name": "DMS",
+      "bestPrice": "3",
+      "acceptablePrice": "4"
+    }
+  ]
+}
